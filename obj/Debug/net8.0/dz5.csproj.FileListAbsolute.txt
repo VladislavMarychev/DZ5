@@ -1,0 +1,16 @@
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.sourcelink.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\bin\Debug\net8.0\dz5.exe
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\bin\Debug\net8.0\dz5.deps.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\bin\Debug\net8.0\dz5.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\bin\Debug\net8.0\dz5.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\bin\Debug\net8.0\dz5.pdb
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\refint\dz5.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.pdb
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\dz5.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\dz5\obj\Debug\net8.0\ref\dz5.dll
